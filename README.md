@@ -22,7 +22,7 @@ Include geolocation_api.js in your page or embed script directly.
 ## Downloads
 
 [html5 starter page source](https://raw.githubusercontent.com/slik1/basics/master/html5_basic_starter.html) <br />
-[place cursor script](https://raw.githubusercontent.com/slik1/basics/master/place_cursor.html)
+[place cursor script](https://raw.githubusercontent.com/slik1/basics/master/place_cursor.html) <br />
 [geolocation api script](https://raw.githubusercontent.com/slik1/basics/master/geolocation_api.html)
 
 ---
